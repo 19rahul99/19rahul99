@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @19rahul99
+- 👋 Hi, I’m Rahul Yadav
 - 👀 I’m interested in coding and Data Science
 - 🌱 I’m currently learning Python, SQL, Big Data Concepts.
 
